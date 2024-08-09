@@ -2,7 +2,7 @@
 
 Member of Tech-X FTC 19101 since 17 September 2023
 
-Leader of the <b> **Media Administration Team** </b>since 17 September 2023.
+Part of the <b> **Media Administration Team** </b>since 17 September 2023.
 <br>
 Part of the **Website Administration Team** since 1 August 2024.
 <br>
