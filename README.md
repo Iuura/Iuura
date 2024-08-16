@@ -23,7 +23,6 @@ Part of the <b> **Media Administration Team** </b>since 17 September 2023.
   <a href="https://tech-x.ro">
     <img alt="views" title="tech-x.ro" src="https://custom-icon-badges.demolab.com/badge/-TechX%20Website-yellow?style=for-the-badge&logo=workflow&logoColor=white"/></a>
 </p>
-
 <br>
 
 ---
