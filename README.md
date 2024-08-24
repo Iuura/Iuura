@@ -1,5 +1,5 @@
 # Iura Cristian
-
+ 
 Member of Tech-X FTC 19101 since 17 September 2023
 
 Part of the <b> **Media and Marketing Team** </b>since 17 September 2023.
