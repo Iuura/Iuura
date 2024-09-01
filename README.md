@@ -4,9 +4,10 @@ Member of Tech-X FTC 19101 since 17 September 2023
 
 Part of the <b> **Media and Marketing Team** </b>since 17 September 2023.
 <br>
-**Domain & Website Administrator** since 1 August 2024. 
+**Web Admin** since 1 August 2024. 
 <br>
 </br>
+I'm currently part of the **Management Team**
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -16,10 +17,10 @@ Part of the <b> **Media and Marketing Team** </b>since 17 September 2023.
   
   <a href="">
     <img alt="gmail" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-cristianiura07@gmail.com-green?style=for-the-badge&logo=mention&logoColor=white"/></a> 
-    
+    <!--
   <a href="https://github.com/Iuura?tab=repositories">
     <img alt="total stars" title="My repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-    
+    -->
   <a href="https://tech-x.ro">
     <img alt="views" title="tech-x.ro" src="https://custom-icon-badges.demolab.com/badge/-TechX%20Website-yellow?style=for-the-badge&logo=workflow&logoColor=white"/></a>
 </p>
@@ -35,6 +36,12 @@ Part of the <b> **Media and Marketing Team** </b>since 17 September 2023.
 <img align="left" alt="vsc" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"/>
 <img align="left" alt="canva" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+<img align="left" alt="photoshop" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
+<img align="left" alt="illustrator" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"/>
+<img align="left" alt="premierepro" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
+
+
+
 
 
 <br>
