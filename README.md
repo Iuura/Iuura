@@ -50,7 +50,7 @@ I'm currently part of the **Management Team**
 <div align="center">
   <h3>Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https:/ /github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://streak-stats.demolab.com/?user=Iuura">
       <img title="Stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Iuura&theme=monokai-metallian&hide_border=true"/>
