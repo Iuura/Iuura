@@ -19,7 +19,7 @@ I'm currently part of the **Management Team**
     <img alt="gmail" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-cristianiura07@gmail.com-green?style=for-the-badge&logo=mention&logoColor=white"/></a> 
     <!--
   <a href="https://github.com/Iuura?tab=repositories">
-    <img alt="total stars" title="My repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <img alt="tota l stars" title="My repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
     -->
   <a href="https://tech-x.ro">
     <img alt="views" title="tech-x.ro" src="https://custom-icon-badges.demolab.com/badge/-TechX%20Website-yellow?style=for-the-badge&logo=workflow&logoColor=white"/></a>
