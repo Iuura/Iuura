@@ -1,7 +1,11 @@
 # Iura Cristian
- 
+ <!--
 Member of Tech-X FTC 19101 since 17 September 2023
 
+Part of the <b> **Media and Marketing Team** </b> from 17 September 2023 to 24 September 2024. <b> **Design and Assembly Team** </b> since 24 September 2024
+<br>
+</br>
+-->
 **Team Leader** of FTC 19101 Tech-X.
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
