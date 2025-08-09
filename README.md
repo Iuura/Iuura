@@ -11,12 +11,7 @@ F-1 wannabe
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  
-  
-    <!--
-  <a href="https://github.com/Iuura?tab=repositories">
-    <img alt="tota l stars" title="My repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-    -->
+
   
 </p>
 <br>
