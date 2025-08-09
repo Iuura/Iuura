@@ -6,22 +6,18 @@ Part of the <b> **Media and Marketing Team** </b> from 17 September 2023 to 24 S
 <br>
 </br>
 -->
-**Team Leader** of FTC 19101 Tech-X.
+F-1 wannabe 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://https://www.youtube.com/@ftc19101">
-    <img alt="youtube" title="Tech-X channel" src="https://custom-icon-badges.demolab.com/badge/-Youtube-red?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
   
-  <a href="">
-    <img alt="gmail" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-cristianiura07@gmail.com-green?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+  
     <!--
   <a href="https://github.com/Iuura?tab=repositories">
     <img alt="tota l stars" title="My repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
     -->
-  <a href="https://tech-x.ro">
-    <img alt="views" title="tech-x.ro" src="https://custom-icon-badges.demolab.com/badge/-TechX%20Website-yellow?style=for-the-badge&logo=workflow&logoColor=white"/></a>
+  
 </p>
 <br>
 
